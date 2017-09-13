@@ -10,12 +10,10 @@
   	<maven.compiler.target>1.8</maven.compiler.target>
   </properties>
   
-  <dependencies>
-  	<dependency>
-  		<groupId>com.rvvsanchez.libs.event.publisher</groupId>
-  		<artifactId>webhook-core</artifactId>
-  		<version>0.1.0-SNAPSHOT</version>
-  	</dependency>
-  </dependencies>
+  <packaging>pom</packaging>
+  
+  <modules>
+  	<module>webhook-http-sample</module>
+  </modules>
   
 </project>

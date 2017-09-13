@@ -1,4 +1,4 @@
-package com.rvvsanchez.libs.event.publisher.webhook.samples;
+package com.rvvsanchez.libs.event.publisher.webhook.samples.http;
 
 import java.io.IOException;
 import java.util.HashMap;
